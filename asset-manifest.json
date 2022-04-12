@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3d7c80e.css",
+    "main.js": "/static/js/main.9bdfa132.js",
+    "static/media/Team-hands.png": "/static/media/Team-hands.8a5869d25b42be715d1e.png",
+    "static/media/vision.jpg": "/static/media/vision.07481eb875389a4aa956.jpg",
+    "static/media/Our-Mission.jpg": "/static/media/Our-Mission.3ae4e2a35e4bee27a985.jpg",
+    "static/media/background.jpg": "/static/media/background.d82f10379b61cb088286.jpg",
+    "index.html": "/index.html",
+    "main.d3d7c80e.css.map": "/static/css/main.d3d7c80e.css.map",
+    "main.9bdfa132.js.map": "/static/js/main.9bdfa132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d7c80e.css",
+    "static/js/main.9bdfa132.js"
+  ]
+}
